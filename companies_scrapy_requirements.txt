@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+-e git+https://github.com/twisted/twisted.git@trunk#egg=MyProject
+scrapy==1.5.1
+google-cloud-storage
