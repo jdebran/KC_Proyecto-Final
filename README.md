@@ -4,11 +4,23 @@ KeepCoding Bootcamp Big Data & Machine Learning - Proyecto Team Outliers
 
 ## Equipo
 
-* [Belizón, S.](https://github.com/SerafinBelizon)
-* [Debrán, J.](https://github.com/jdebran)
-* [Doutel, F.](https://github.com/f3rn4nd0d)
-* [Lucena, R.](https://github.com/jampol71)
-* [Ventas, R.](https://github.com/rventas)
+* Serafín Belizón
+[<img src="https://github.githubassets.com/favicon.ico" height=16 width="16">](https://github.com/SerafinBelizon)
+[![LinkedIn][logo_LinkedIn]](https://www.linkedin.com/in/serafin-belizon-gomez-114096154)
+* Jorge Debrán
+[<img src="https://github.githubassets.com/favicon.ico" height=16 width="16">](https://github.com/jdebran)
+[![LinkedIn][logo_LinkedIn]](https://www.linkedin.com/in/jorgedebran)
+* Fernando Doutel
+[<img src="https://github.githubassets.com/favicon.ico" height=16 width="16">](https://github.com/f3rn4nd0d)
+[![LinkedIn][logo_LinkedIn]](https://www.linkedin.com/in/fernandodoutel)
+* Rafael Lucena
+[<img src="https://github.githubassets.com/favicon.ico" height=16 width="16">](https://github.com/jampol71)
+[![LinkedIn][logo_LinkedIn]](https://www.linkedin.com/in/rafael-lucena-martinez)
+* Raquel Ventas
+[<img src="https://github.githubassets.com/favicon.ico" height=16 width="16">](https://github.com/rventas)
+[![LinkedIn][logo_LinkedIn]](https://www.linkedin.com/in/raquel-ventas-olmedo-61a857137)
+
+[logo_LinkedIn]: https://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico "LinkedIn"
 
 ## Conclusiones
 
